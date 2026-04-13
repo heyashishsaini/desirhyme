@@ -10,7 +10,7 @@ function Header() {
       <div style={{ display: 'flex', justifyContent: 'space-between', padding: isMobile ? '20px 20px' : '30px 60px' }}>
         <div>
           <h2 style={{ fontFamily: 'Montserrat', fontSize: isMobile ? '15px' : 'inherit' }}>
-            desiRhyme <br /> <span style={{ fontSize: isMobile ? '10px' : '15px' }}>by @ashishalf</span>
+            desiRhyme <br /> <span style={{ fontSize: isMobile ? '10px' : '15px' }}>by @heyashishsaini</span>
           </h2>
         </div>
         <Link to="https://open.spotify.com/playlist/24QyAedxzc1U0bxV6eFoSX?si=ced57226d9f145c6">
