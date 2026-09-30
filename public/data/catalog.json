@@ -1,0 +1,582 @@
+{
+  "artists": [
+    {
+      "id": "1",
+      "slug": "hanumankind",
+      "name": "Hanumankind",
+      "category": "indian",
+      "bio": "An English language rapper from Kerala who has gained international recognition for his innovative sound and styles. His track \"Big Dogs\" went viral and the music video was filmed inside a death hole.",
+      "imageUrl": "https://www.bollywoodshaadis.com/img/article-2024822522123679956000.webp",
+      "spotifyUrl": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp",
+      "youtubeUrl": "https://www.youtube.com/@hanumankind",
+      "instagramUrl": "https://www.instagram.com/hanumankind/",
+      "songs": [
+        {
+          "id": "1",
+          "title": "Big Dawgs",
+          "url": "https://youtu.be/hOHKltAiKXQ"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "slug": "carryminati",
+      "name": "CarryMinati",
+      "category": "indian",
+      "bio": "Ajey Nagar, better known as CarryMinati, is an Indian YouTuber, streamer and rapper from Faridabad, India. He is known for his roasting videos, comedic skits and reactions to various online topics on his channel CarryMinati.",
+      "imageUrl": "https://wallpapers.com/images/hd/trendy-fashionable-carryminati-hd-0drjvu9m3hf3vfzi.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/1VwNP7mP5DmTsdJqQuW0nT",
+      "songs": []
+    },
+    {
+      "id": "3",
+      "slug": "mc-insane",
+      "name": "MC Insane",
+      "category": "indian",
+      "bio": "MC Insane, whose real name is Prakash Sharma, is an Indian rapper known for his unique style of emo rap. Born and raised in Naharlagun, he has been making waves in the Indian hip-hop scene since 2016.",
+      "imageUrl": "https://images.genius.com/e4cd17f3ca3d6f8c1b0a81386d2d7d93.800x800x1.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq",
+      "songs": []
+    },
+    {
+      "id": "4",
+      "slug": "imran-khan",
+      "name": "Imran Khan",
+      "category": "international",
+      "bio": "Imran Khan is a Dutch-Pakistani singer, songwriter, and rapper. He performs sings in both English and Punjabi. He first became known in 2007 after the release of his first single 'Ni Nachleh'",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1781359119217139724/SISqUXxa_400x400.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js?si=VbneCE9NR1uuADUBjGUOmQ",
+      "songs": []
+    },
+    {
+      "id": "5",
+      "slug": "faris-shafi",
+      "name": "Faris Shafi",
+      "category": "international",
+      "bio": "Faris Shafi is a Pakistani rapper, songwriter and actor. Performing in Urdu, English and Punjabi, Faris is known for his lyrics that can be personal as well as political, and is considered a pioneer of Urdu rap in Pakistan.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb64bd51c9a55149c285a264e7",
+      "spotifyUrl": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD",
+      "songs": []
+    },
+    {
+      "id": "6",
+      "slug": "chaar-diwaari",
+      "name": "Chaar Diwaari",
+      "category": "indian",
+      "bio": "Chaar Diwaari is the musical alias of Garv Taneja, an artist based in New Delhi, India. Diwaari's primal focus is creating experimental Hindi music.",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e0254a355bf691fadf60df32b70",
+      "spotifyUrl": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx",
+      "songs": []
+    },
+    {
+      "id": "7",
+      "slug": "naezy",
+      "name": "Naezy",
+      "category": "indian",
+      "bio": "Naved Shaikh, known by his stage name Naezy, is an Indian rapper and songwriter. He gained prominence with his breakout song 'Aafat,' which showcased his unique style and storytelling abilities.",
+      "imageUrl": "https://img.redbull.com/images/c_crop,x_1025,y_0,h_2624,w_1968/c_fill,w_450,h_600/q_auto:low,f_auto/redbullcom/2020/5/3/bpvj4kkywmv5eusybqnu/naezy-naved-shaikh-mumbai-hip-hop-rapper",
+      "spotifyUrl": "https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2?si=chmw0TXCQHWFExzMmAoRPw",
+      "songs": []
+    },
+    {
+      "id": "8",
+      "slug": "raftaar",
+      "name": "Raftaar",
+      "category": "indian",
+      "bio": "Kalathil Kuzhiyil Devadasan Dilin Nair, better known by his stage name Raftaar, is an Indian rapper, lyricist, dancer, actor, TV personality and music composer. He started his career as a dancer.",
+      "imageUrl": "https://c.saavncdn.com/artists/Raftaar_009_20230223100912_500x500.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36?si=4aCh8IhqSH-CoygXaaFxgw",
+      "songs": []
+    },
+    {
+      "id": "9",
+      "slug": "prabh-deep",
+      "name": "Prabh Deep",
+      "category": "indian",
+      "bio": "Prabhdeep Singh, better known by his stage name, Prabh Deep, is an Indian rapper, songwriter and music producer. He gained recognition in the Indian music industry after the release of his debut album Class-Sikh.",
+      "imageUrl": "https://blackhattalent.com/wp-content/uploads/2023/08/Prabhdeep5y78.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC?si=8vhglcy0QC-hfugofKrM6w",
+      "songs": []
+    },
+    {
+      "id": "10",
+      "slug": "karan-aujla",
+      "name": "Karan Aujla",
+      "category": "indian",
+      "bio": "Jaskaran Singh Aujla, known professionally as Karan Aujla, is an Indian singer, rapper and songwriter based in Canada who is primarily associated with Punjabi music, Aujla started his career along with Deep Jandu and Elly Mangat.",
+      "imageUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846822c3d67b53c0627fb88fc3",
+      "spotifyUrl": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo?si=PBsDReDnSVqrA13e-dWnkQ",
+      "songs": []
+    },
+    {
+      "id": "11",
+      "slug": "dino-james",
+      "name": "Dino James",
+      "category": "indian",
+      "bio": "Dino James is a well-known YouTuber, writer, singer, and rapper from India. The music of Dino James has an effect on everyone who hears it. He became well-known for his polarising song 'Girlfriend.'.",
+      "imageUrl": "https://lastfm.freetls.fastly.net/i/u/770x0/8b12bbb162fd50512f08b9b1bc8b6f6d.jpg#8b12bbb162fd50512f08b9b1bc8b6f6d",
+      "spotifyUrl": "https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW?si=t6tQVz9wRRWxqNjWOVkMtw",
+      "songs": []
+    },
+    {
+      "id": "12",
+      "slug": "emiway-bantai",
+      "name": "Emiway Bantai",
+      "category": "indian",
+      "bio": "Emiway Bantai is an Indian singer, songwriter, rapper and live performer. His most well-known work is the song Asli Hip Hop from the 2019 movie Gully Boy. He also made an appearance on the well-known reality series India’s Got Talent before becoming famous.",
+      "imageUrl": "https://media.insider.in/image/upload/c_crop,g_custom/v1692772698/a9pulg5c16x5kjwpfbt8.png",
+      "spotifyUrl": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I",
+      "songs": []
+    },
+    {
+      "id": "13",
+      "slug": "divine",
+      "name": "Divine",
+      "category": "indian",
+      "bio": "Divine, (stylized as DIVINE), is an Indian rapper of Goan descent. Born and raised in Andheri, Mumbai, Divine started gaining popularity after the release of his single 'Yeh Mera Bombay' in 2013.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe4bae1cd1803402a906b61ba",
+      "spotifyUrl": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz",
+      "songs": []
+    },
+    {
+      "id": "14",
+      "slug": "taimour-baig",
+      "name": "Taimour Baig",
+      "category": "international",
+      "bio": "Taimour Baig is a popular Pakistani artist/band, better known with the songs: 'CARRY ON / ROLL THE DICE' , 'Roll The Dice' , 'Leave Me Alone' .",
+      "imageUrl": "https://images.genius.com/cfdb8416c78ca91bbd49f104a169a1a6.300x300x1.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi",
+      "songs": []
+    },
+    {
+      "id": "15",
+      "slug": "talha-anjum",
+      "name": "Talha Anjum",
+      "category": "international",
+      "bio": "Talha Anjum Rasheed is a Pakistani rapper, songwriter, and lyricist. He was born and raised in Karachi and is popularly known for being a member and co-founder of the Hip-hop band, Young Stunners along with Talhah Yunus, with Jokhay as music producer.",
+      "imageUrl": "https://images.genius.com/ff598810a64e130c7c4e9156477db663.485x485x1.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci",
+      "songs": []
+    },
+    {
+      "id": "16",
+      "slug": "talha-yunus",
+      "name": "Talha Yunus",
+      "category": "international",
+      "bio": "Talhah Yunus is a Pakistani rapper, filmmaker and musician. He graduated from the National College of Arts in filmmaking. He is a part of the hip-hop duo Young Stunners along with Talha Anjum, having the music producer Jokhay. He was born and raised in Karachi.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12ee42a62a8a38517a81a691",
+      "spotifyUrl": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5?autoplay=true",
+      "songs": []
+    },
+    {
+      "id": "17",
+      "slug": "ikka",
+      "name": "Ikka",
+      "category": "indian",
+      "bio": "Ankit Singh Patyal, better known by his stage names Ikka and Ikka Singh, is an Indian rapper and lyricist. He debuted in Bollywood with the song 'In Da Club' for the 2014 film Tamanchey.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf9e04c088a3c79d5d88fdfaa",
+      "spotifyUrl": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR",
+      "songs": []
+    },
+    {
+      "id": "18",
+      "slug": "kalam-ink",
+      "name": "Kalam Ink",
+      "category": "indian",
+      "bio": "Kalam Ink is a rising hip-hop artist hailing from Dehradun, India. As an independent artist, he serves as a rapper, music director, and songwriter. His YouTube channel boasts over 600,000 subscribers and has garnered more than 34 million views.",
+      "imageUrl": "https://yt3.googleusercontent.com/k9KQgbYJ_2LR30p6yx0GAB0EAFlCTO1bh6cq9Lb8imuGDpuWktjDGkdrBbWYowqq3VY-n7BLNA=s900-c-k-c0x00ffffff-no-rj",
+      "spotifyUrl": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd",
+      "songs": []
+    },
+    {
+      "id": "19",
+      "slug": "yashraj",
+      "name": "Yashraj",
+      "category": "indian",
+      "bio": "A 22-year-old hip-hop artist from Mumbai. He released his first EP with three tracks. You can listen to his music on Spotify and Apple Music.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eba89ce104c6e93a754b428f51",
+      "spotifyUrl": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST",
+      "songs": []
+    },
+    {
+      "id": "20",
+      "slug": "karma",
+      "name": "Karma",
+      "category": "indian",
+      "bio": "An Indian rapper and music producer from Dehradun. Arora chose the name Karma because he believes everything in life is about karma. He also wanted a name that would stand out from the crowd.",
+      "imageUrl": "https://pearlentertainment.in/wp-content/uploads/2024/08/Karma-6.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F",
+      "songs": []
+    },
+    {
+      "id": "21",
+      "slug": "kr-na",
+      "name": "KR$NA",
+      "category": "indian",
+      "bio": "Krishna Kaul, known mononymously as Krishna and formerly as YoungProzpekt, is an Indian rapper. He was one of the earliest rappers to emerge in the Indian hip hop scene in the mid-2000s under the stage name Prozpekt.",
+      "imageUrl": "https://yt3.googleusercontent.com/ytc/APkrFKbsUd41__0_LzhS8AxYULPLIUMzTz5xWyHhYNpYCA=s900-c-k-c0x00ffffff-no-rj",
+      "spotifyUrl": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t",
+      "songs": []
+    },
+    {
+      "id": "22",
+      "slug": "seedhe-maut",
+      "name": "Seedhe Maut",
+      "category": "indian",
+      "bio": "Seedhe Maut represents the next stage in the evolution of the capital’s hip-hop sound. Having mastered the art of delivering razor sharp, combative and witty rhymes, the duo are following in the trailblazing footsteps of international hip-hop collectives.",
+      "imageUrl": "https://pbs.twimg.com/media/F3PwN55aoAATOh2.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo?si=c_bhyHUWRwuBa6dEzaymuQ&utm_source=copy-link",
+      "songs": []
+    },
+    {
+      "id": "23",
+      "slug": "king",
+      "name": "King",
+      "category": "indian",
+      "bio": "Arpan, also known as King Rocco, was born in New Delhi, the nation's capital. He had dreams of becoming a successful rapper since he was 8 years old. He eventually achieved his dream and had great success with his YouTube channel.",
+      "imageUrl": "https://ik.imagekit.io/j83rchiauw/A_List_Star/KingRapperBiography.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU?autoplay=true",
+      "songs": []
+    },
+    {
+      "id": "24",
+      "slug": "narci",
+      "name": "Narci",
+      "category": "indian",
+      "bio": "Narci is a rapper, lyricist, poet, and theater artist from Chandigarh. He has a master's degree in Journalism and Film Study. In 2010, he formed the rap duo 'United Cloudz'. The duo disbanded after a few years, and Narci continued as a solo artist.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2af09135aad93328c57f497a",
+      "spotifyUrl": "https://open.spotify.com/artist/3b9iVRjKkiC4oIHXB7pbzJ?autoplay=true",
+      "songs": []
+    },
+    {
+      "id": "25",
+      "slug": "mc-stan",
+      "name": "MC STAN",
+      "category": "indian",
+      "bio": "MC Stan aka Altaf Tadavi is a pioneer as much as the product of Pune hip hop. He grew up around the neighbourhood of Tadiwala Road. Stan was introduced to hip hop when he was twelve years young by his elder brother.",
+      "imageUrl": "https://img.indiaforums.com/article/900x900/19/0950-here-is-all-you-need-to-know-about-controversial-show-bigg-boss-16s-most-talked-about-contestant-mc-.jpg?c=0cN60D",
+      "spotifyUrl": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH",
+      "songs": []
+    },
+    {
+      "id": "26",
+      "slug": "panther",
+      "name": "Panther",
+      "category": "indian",
+      "bio": "Panther is an Indian Rapper, Lyricist, and Music Composer. He is well-known for his variety of music as well as the Indian hip-hop reality program, MTV Hustle 2.0. Panther’s real name is Anubhav Shukla.",
+      "imageUrl": "https://hire4event.com/apppanel/assets/artistimage/artistphoto/16822771025panther7.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0",
+      "songs": []
+    },
+    {
+      "id": "27",
+      "slug": "fotty-seven",
+      "name": "Fotty Seven",
+      "category": "indian",
+      "bio": "Fotty Seven Is A Hip-Hop Based Artist From Gurugram. He Was Born In 1991 And His Birthplace Is Gurugram, Haryana. Fotty Seven’s Real Name Is Ankit Gudwani And His Girlfriend’s Name Is Tenzin.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbf027d388a40d87bc5a69ea7",
+      "spotifyUrl": "https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA",
+      "songs": []
+    },
+    {
+      "id": "28",
+      "slug": "jani",
+      "name": "Jani",
+      "category": "international",
+      "bio": "Karachi-based rising rapper and songwriter Jani, born Muhammad Ali Khan, has released his debut rap album 'Lostalgia'.",
+      "imageUrl": "https://external-preview.redd.it/jani-lostalgia-v0-EtgaGVy9JfUbynWqYNV9pwBYelVQuUIWJjIfRbGmS2I.jpg?auto=webp&s=1cdb9a66702ed1847ed3d405ca8ad6f3e7dd581a",
+      "spotifyUrl": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc",
+      "songs": []
+    },
+    {
+      "id": "29",
+      "slug": "hasan-raheem",
+      "name": "Hasan Raheem",
+      "category": "international",
+      "bio": "Hasan Raheem (born August 2, 1998) is a Pakistani singer, songwriter and rapper. He is known for his subtle, laid-back R&B, hip hop and indie pop styles of music.",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1697665120174825472/Pg-LIC_C_400x400.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V",
+      "songs": []
+    },
+    {
+      "id": "30",
+      "slug": "paradox",
+      "name": "Paradox",
+      "category": "indian",
+      "bio": "Paradox is the stage name of Tanishq Singh, an Indian rapper, lyricist, and composer who became famous after appearing as a runner-up on the 2023 MTV Hustle 2.0 reality show.",
+      "imageUrl": "https://www.musiculture.in/wp-content/uploads/2023/03/Paradox-1-812x800.jpeg",
+      "spotifyUrl": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui",
+      "songs": []
+    },
+    {
+      "id": "31",
+      "slug": "gravity",
+      "name": "GRAVITY",
+      "category": "indian",
+      "bio": "Akshay Poojary, better known as GRAVITY represents the evolution of the Indian Hip-Hop sound. Having mastered the art of delivering the best acts including 'Jalaluddin', 'Pop Smoke' etc.",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02ad217487906ca0967a636cb1",
+      "spotifyUrl": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO",
+      "songs": []
+    },
+    {
+      "id": "32",
+      "slug": "abdul-hannan",
+      "name": "Abdul Hannan",
+      "category": "international",
+      "bio": "Abdul Hannan is a singer-songwriter from Pakistan. Since 2010, he has been captivating audiences with his unique style of music. Drawing on influences from various genres, including Rock, Pop, and Country.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb515cd04b930af60033f5cf9a",
+      "spotifyUrl": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1",
+      "songs": []
+    },
+    {
+      "id": "33",
+      "slug": "jj47",
+      "name": "JJ47",
+      "category": "international",
+      "bio": "JJ47 is a rapper / hip hop artist hailing from Karachi, Pakistan. JJ47 has been honing his skills in the underground and considered one of the finest.",
+      "imageUrl": "https://yt3.googleusercontent.com/SUkQ16yH5HUnCvJD-i5wHaO37OlvjOymo9rUmXlvM3lFVwqKbG28xYLIazUTEKL4g6YOhHIANPM=s900-c-k-c0x00ffffff-no-rj",
+      "spotifyUrl": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc",
+      "songs": []
+    },
+    {
+      "id": "34",
+      "slug": "shamoon-ismail",
+      "name": "Shamoon Ismail",
+      "category": "international",
+      "bio": "Shamoon Ismail was born and raised in Islamabad, to a Punjabi Muslim family. He has spent most of his life in Pakistan learning musical instruments, having a keen interest in playing guitars since childhood.",
+      "imageUrl": "https://cdns-images.dzcdn.net/images/artist/cb1264bb5a7efb382c3d90d8c40cf402/1900x1900-000000-80-0-0.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv",
+      "songs": []
+    },
+    {
+      "id": "35",
+      "slug": "umair",
+      "name": "Umair",
+      "category": "international",
+      "bio": "Umair is a 26 year old Pakistani singer-songwriter from Karachi. He began his career in 2018, releasing his debut album “The Journey”. Since then, he has become one of Pakistan’s most successful artists.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/5a5653aeb7411ce23017e460/04ec4a5e-d3d1-4fe1-a64a-b091c5281cd0/316ed91c-d88e-ebd9-8be6-00db4a25b445.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi",
+      "songs": []
+    },
+    {
+      "id": "36",
+      "slug": "abdullah-malik",
+      "name": "Abdullah Malik",
+      "category": "international",
+      "bio": "Abdullah Malik, also known as Rap Demon, is a Pakistani rapper, singer, producer, and lyricist from Islamabad. He was born on March 20, 1996 and started writing rhymes and producing at age 11.",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b2733666df93b6b8fe1b38a75540",
+      "spotifyUrl": "https://open.spotify.com/artist/5Op1QmEE3Eye8gdNrla3ok",
+      "songs": []
+    },
+    {
+      "id": "37",
+      "slug": "jokhay",
+      "name": "Jokhay",
+      "category": "international",
+      "bio": "Jokhay, whose real name is Umair Khan, is a music producer, songwriter, and guitarist from Karachi, Pakistan. He was born on September 7, 1991. He is known for his work on the album Khana Badosh and for producing songs such as Quarantine, Guman, Afsanay, Aazma Le, and Benz.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebefd8edc35ed9ae05b22fa625",
+      "spotifyUrl": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ",
+      "songs": []
+    },
+    {
+      "id": "38",
+      "slug": "aleemrk",
+      "name": "aleemrk",
+      "category": "international",
+      "bio": "aleemrk (real name Aleem Khan) is a 25 year old musician from the UK. His eclectic blend of hip-hop, pop, soul and R&B creates a unique soundscape that explores the depths of human emotion.",
+      "imageUrl": "https://i.scdn.co/image/ab67706c0000da845bdc042238fb806e5f9452aa",
+      "spotifyUrl": "https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP",
+      "songs": []
+    },
+    {
+      "id": "39",
+      "slug": "umer-anjum",
+      "name": "Umer Anjum",
+      "category": "international",
+      "bio": "Umer anjum is a 23/yo Rapper from Karachi, Pakistan. Known for penning down his raw emotions,personal feelings with transparency towards his audience, Umer anjum made his debut In 2020 and re-ignited the “Drill” sound for the Pakistani rap community inspiring countless rappers to explore the new sound in their own way.",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a8756b9891c86c60fcca0ea7",
+      "spotifyUrl": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV",
+      "songs": []
+    },
+    {
+      "id": "40",
+      "slug": "raga",
+      "name": "Raga",
+      "category": "indian",
+      "bio": "aga the Indian rapper, is a dynamic force in the music industry, known for his electrifying performances and thought-provoking lyrics. Hailing from Jamnapaar in New Delhi, India, Raga has captivated audiences with his unique blend of hip-hop, R&B, and traditional Indian music, creating a genre-defying sound that resonates with listeners worldwide.",
+      "imageUrl": "https://images.genius.com/690707636dbd8331d7cf47475b20d17e.1000x1000x1.png",
+      "spotifyUrl": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO",
+      "songs": []
+    },
+    {
+      "id": "41",
+      "slug": "yo-yo-honey-singh",
+      "name": "Yo Yo Honey Singh",
+      "category": "indian",
+      "bio": "Hirdesh Singh, known professionally as Yo Yo Honey Singh, or simply Honey Singh, is an Indian rapper, singer, music producer, and actor. He started in 2003 as a session and recording artist, and became a bhangra and hip hop, Punjabi music producer.",
+      "imageUrl": "https://i.scdn.co/image/ab67616100005174bc7e4fffd515b47ff1ebbc1f",
+      "spotifyUrl": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR",
+      "songs": []
+    },
+    {
+      "id": "42",
+      "slug": "badshah",
+      "name": "Badshah",
+      "category": "indian",
+      "bio": "Aditya Prateek Singh Sisodia, professionally known as Badshah, is an Indian rapper, songwriter, singer, music producer, filmmaker, businessman, philanthropist and fashion designer. Badshah's musical style is diverse, encompassing Indian pop, hip-hop, rap, synthwave, underground rap, pop rap, hardcore rap, and freestyle.",
+      "imageUrl": "https://www.franchiseindia.com/expo/mumbai/assets/imgs/speakers/badshah.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1",
+      "songs": []
+    },
+    {
+      "id": "43",
+      "slug": "nazz",
+      "name": "Nazz",
+      "category": "indian",
+      "bio": "Nazz is an Indian rapper and music composer in India. Nazz’s real name is Nihar. Nazz’s birthplace is Mumbai. Nazz's height is 5 feet 8 inches. Nazz’s weight is 68kg. Nihar a well-known rapper and composer of music goes by the stage name Nazz.",
+      "imageUrl": "https://ik.imagekit.io/j83rchiauw/A_List_Star/nazz-biography.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB",
+      "songs": []
+    },
+    {
+      "id": "44",
+      "slug": "spectra",
+      "name": "Spectra",
+      "category": "indian",
+      "bio": "Shubham Pal commonly known as Spectra is an upcoming rapper hip-hop musician and stage performer from India. Since his college years he had an interest in rapping. He began his YouTube channel and used to post videos of his rap songs there.",
+      "imageUrl": "https://yt3.googleusercontent.com/rPcxcJPWAuORJKQqhWj3Si-8DDRI0ymJZr3RPG4apdalzBS99LsltOiMKwO7voscr2VpmTf0=s900-c-k-c0x00ffffff-no-rj",
+      "spotifyUrl": "https://open.spotify.com/artist/6kQXMHA8JGJQsRsMBqqe7l",
+      "songs": []
+    },
+    {
+      "id": "45",
+      "slug": "mc-square",
+      "name": "MC SQUARE",
+      "category": "indian",
+      "bio": "MC Square's real name is Abhishek Bensla. Abhishek Bensla is an Indian rapper and composer better known by his stage name MC Square. He received praise for his performance in season two of MTV Hustle.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8b10f586de6c953e7959f197",
+      "spotifyUrl": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF",
+      "songs": []
+    },
+    {
+      "id": "46",
+      "slug": "farhan-khan",
+      "name": "Farhan Khan",
+      "category": "indian",
+      "bio": "Farhan Khan a Mumbai-based lyricist, poet, and rapper, is known for blending Urdu poetry with modern music styles like Hip Hop, R&B, and Bollywood influences. His ability to mix cultural richness with contemporary sound sets him apart in the music scene.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb45372b62a96debcaa9abcc31",
+      "spotifyUrl": "https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy",
+      "songs": []
+    },
+    {
+      "id": "47",
+      "slug": "tupac-shakur",
+      "name": "Tupac Shakur",
+      "category": "international",
+      "bio": "Tupac Amaru Shakur, also known by his stage names 2Pac and Makaveli, was an American rapper and actor, regarded as one of the greatest and most influential rappers of all time. Academics regard him as one of the most influential music artists of the 20th century and a prominent political activist for Black America.",
+      "imageUrl": "https://ntvb.tmsimg.com/assets/assets/63862_v9_ba.jpg?w=360&h=480",
+      "spotifyUrl": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh",
+      "songs": []
+    },
+    {
+      "id": "48",
+      "slug": "drake",
+      "name": "Drake",
+      "category": "international",
+      "bio": "Aubrey Drake Graham, known mononymously as Drake, is a Canadian rapper, singer, and actor. Regarded as one of the greatest rappers of all time, he is credited with popularizing R&B sensibilities in hip-hop music.",
+      "imageUrl": "https://ntvb.tmsimg.com/assets/assets/371287_v9_bc.jpg?w=360&h=480",
+      "spotifyUrl": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+      "songs": []
+    },
+    {
+      "id": "49",
+      "slug": "travis-scott",
+      "name": "Travis Scott",
+      "category": "international",
+      "bio": "Jacques Bermon Webster III, known professionally as Travis Scott, is an American rapper, singer, songwriter, and record producer. Scott has had five number-one hits on the U.S. Billboard Hot 100 chart, along with a total of over one hundred charting songs.",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
+      "spotifyUrl": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY",
+      "songs": []
+    },
+    {
+      "id": "50",
+      "slug": "xxxtentacion",
+      "name": "XXXTentacion",
+      "category": "international",
+      "bio": "Jahseh Dwayne Ricardo Onfroy (January 23, 1998 – June 18, 2018), known professionally as XXXTentacion,[c] was an American rapper and singer-songwriter. Though a controversial figure due to his widely publicized legal troubles, XXXTentacion gained a cult following among his young fan base during his short career with his depression- and alienation-themed music.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Xxxtentacion_%28cropped%29.jpg/250px-Xxxtentacion_%28cropped%29.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4",
+      "songs": []
+    },
+    {
+      "id": "51",
+      "slug": "juice-wrld",
+      "name": "Juice WRLD",
+      "category": "international",
+      "bio": "Jarad Anthony Higgins, known professionally as Juice Wrld, was an American rapper, singer, and songwriter. He emerged as a leading figure in the emo and SoundCloud rap genres, which garnered mainstream attention during the mid-to-late 2010s.",
+      "imageUrl": "https://preview.redd.it/d7v7tbylygk91.png?width=1080&crop=smart&auto=webp&s=3be46e3aa6d508da01f6086e074d69c152fe7f43",
+      "spotifyUrl": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz",
+      "songs": []
+    },
+    {
+      "id": "52",
+      "slug": "shubh",
+      "name": "Shubh",
+      "category": "indian",
+      "bio": "Shubhneet Singh, known professionally as Shubh, is an Indian rapper-singer and songwriter based in Canada associated with Punjabi music. Shubh rose to mainstream in 2021 with his single \"We Rollin\".",
+      "imageUrl": "https://i1.sndcdn.com/avatars-GBhEb4pyHIRKyPfO-9aDwAw-t240x240.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O",
+      "songs": []
+    },
+    {
+      "id": "53",
+      "slug": "talwiinder",
+      "name": "Talwiinder",
+      "category": "indian",
+      "bio": "Talwinder Singh Sidhu, known professionally as Talwiinder, is an Indian Punjabi musician. He is from Punjab, India, and is one of the most streamed Punjabi artists on various platforms. His music has gained global popularity, and he's known for blending traditional Punjabi sounds with modern influences.",
+      "imageUrl": "https://i1.sndcdn.com/avatars-VE0yGzvmwTQtGM7f-u1yzrw-t240x240.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN",
+      "songs": []
+    },
+    {
+      "id": "54",
+      "slug": "dotm",
+      "name": "DOTM",
+      "category": "indian",
+      "bio": "DOTM (Devil On The Mic) is an Indian hip-hop artist and singer. He is known for his work on the hip-hop reality show MTV Hustle 4. DOTM's music often features themes of independence and finding peace.",
+      "imageUrl": "https://yt3.googleusercontent.com/N8wUHRK3GU2MY-TTAqK9ArdsonVlgZeeel0AwIQ6INr4eZGqQohdKoFs855dRY6YZwuLzD4NDg=s900-c-k-c0x00ffffff-no-rj",
+      "spotifyUrl": "https://open.spotify.com/artist/2AL0XQ1mbnWU5xVR6R4KRa",
+      "songs": []
+    },
+    {
+      "id": "55",
+      "slug": "uniyal",
+      "name": "UNIYAL",
+      "category": "indian",
+      "bio": "Uniyal, also known as Kartikey Uniyal, is a rising star in the Indian underground hip-hop scene, particularly known for his work in the Hindi-language DHH (Desi Hip Hop) genre. He's gained recognition for his poignant lyrics, storytelling, and distinct style, often exploring themes of Uttarakhand and its societal issues. His most notable work is the EP \"Nanda Devi Express,\" with the track \"Vartmaan\" gaining significant traction and a viral following, particularly on Instagram.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfC_9ZFe2kafgrYdejG_e9ktC_tYQRnstMQ&s",
+      "spotifyUrl": "https://open.spotify.com/artist/0EdBUkJHdLP4GGx3EN8AH0",
+      "songs": []
+    },
+    {
+      "id": "56",
+      "slug": "vichaar",
+      "name": "vichaar",
+      "category": "indian",
+      "bio": "Vichaar's real name is Josephite Abhin Pandita, an Indian rapper from Dehradun who gained prominence on MTV's reality show Hustle 4, known for his unique flows and captivating performances.",
+      "imageUrl": "https://images.genius.com/bef673ad40443118abb4f7eecac8000a.1000x1000x1.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5",
+      "songs": []
+    },
+    {
+      "id": "57",
+      "slug": "bali",
+      "name": "Bali",
+      "category": "indian",
+      "bio": "Mr. Bali (Sachin Bali), a popular Indian rapper from Delhi known for his witty, sarcastic, and comedic Desi Hip-Hop, famous for hits like \"Sunn Na\" and being a judge on MTV Hustle; he's active since 2016, collaborating with artists like Fotty Seven.",
+      "imageUrl": "https://images.genius.com/545a6e96f1e6e389b596080ee08907e3.1000x1000x1.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8",
+      "songs": []
+    }
+  ]
+}

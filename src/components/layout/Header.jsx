@@ -1,0 +1,2 @@
+import { NavLink } from "react-router-dom";
+export default function Header() { return <header className="site-header"><NavLink className="brand" to="/">desiRhyme<span>by @heyashishsaini</span></NavLink><nav aria-label="Primary navigation"><NavLink to="/indian">Indian</NavLink><NavLink to="/international">International</NavLink></nav><a className="playlist-link" href="https://open.spotify.com/playlist/24QyAedxzc1U0bxV6eFoSX?si=ced57226d9f145c6" target="_blank" rel="noreferrer">Playlist ↗</a></header>; }
